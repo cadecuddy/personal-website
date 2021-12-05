@@ -9,3 +9,5 @@ I built this site using React, as I'm a big fan of how simple the components are
 The site as a whole just renders individual components when the corresponding navbar item is clicked as opposed to opening a whole new page.
 
 Thought I'd keep it rather minimalist, as a sort of homage to [the GOAT](https://motherfuckingwebsite.com/).
+
+[cadecuddy.com](https://www.cadecuddy.com)
