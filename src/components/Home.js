@@ -35,7 +35,7 @@ function Home() {
       <FadeIn transitionDuration="800" delay="500">
         <div class="text-3xl text-center pt-10 leading-10">
           <div class="italic">Current Position:</div>
-          incoming SDE intern @ <span class="text-yellow-600">amazon</span>
+          SDE intern @ <span class="text-yellow-600">amazon</span>
           <div class="pt-1 text-3xl text-blue-700 italic">
             <a
               class="hover:text-blue-500 cursor-pointer"
