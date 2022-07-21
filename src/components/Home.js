@@ -12,7 +12,7 @@ function Home() {
       </FadeIn>
       <FadeIn transitionDuration="800" delay="300">
         <div class="text-3xl text-center pt-10">
-          i'm cade, a sophomore Computer Science student at{" "}
+          i'm cade, a junior Computer Science student at{" "}
           <span class="text-red-700">North Carolina State University</span>
         </div>
       </FadeIn>
