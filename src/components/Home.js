@@ -34,8 +34,11 @@ function Home() {
       </FadeIn>
       <FadeIn transitionDuration="800" delay="500">
         <div class="text-3xl text-center pt-10 leading-10">
-          <div class="italic">Current Position:</div>
+          <div class="italic">Past Positions:</div>
           SDE intern @ <span class="text-yellow-600">amazon</span>
+        </div>
+        <div class="text-center text-3xl pt-8 leading-10">
+          Contact Me:
           <div class="pt-1 text-3xl text-blue-700 italic">
             <a
               class="hover:text-blue-500 cursor-pointer"
@@ -44,6 +47,16 @@ function Home() {
               rel="noopener noreferrer"
             >
               connect on linkedin
+            </a>
+          </div>
+          <div class="pt-1 text-3xl text-blue-500 italic">
+            <a
+              class="hover:text-blue-500 cursor-pointer"
+              href="https://twitter.com/cadecuddy"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              tweet me on twitter
             </a>
           </div>
         </div>
