@@ -37,7 +37,7 @@ function Home() {
           <div class="italic">Past Positions:</div>
           SDE intern @ <span class="text-yellow-600">amazon</span>
         </div>
-        <div class="text-center text-3xl pt-8 leading-10">
+        <div class="text-center text-3xl pt-8 pb-4 leading-10">
           Contact Me:
           <div class="pt-1 text-3xl text-blue-700 italic">
             <a
@@ -49,7 +49,7 @@ function Home() {
               connect on linkedin
             </a>
           </div>
-          <div class="pt-1 text-3xl text-blue-500 italic">
+          <div class="pt-1 text-3xl text-blue-400 italic">
             <a
               class="hover:text-blue-500 cursor-pointer"
               href="https://twitter.com/cadecuddy"
@@ -57,6 +57,26 @@ function Home() {
               rel="noopener noreferrer"
             >
               tweet me on twitter
+            </a>
+          </div>
+          <div class="pt-1 text-3xl text-red-700 italic">
+            <a
+              class="hover:text-red-600 cursor-pointer"
+              href="https://twitter.com/cadecuddy"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              interesting photos on pinterest
+            </a>
+          </div>
+          <div class="pt-1 text-3xl text-pink-600 italic">
+            <a
+              class="hover:text-pink-500 cursor-pointer"
+              href="https://www.instagram.com/cadecuddy/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              instagram
             </a>
           </div>
         </div>
