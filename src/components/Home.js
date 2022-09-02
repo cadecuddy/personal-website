@@ -62,7 +62,7 @@ function Home() {
           <div class="pt-1 text-3xl text-red-700 italic">
             <a
               class="hover:text-red-600 cursor-pointer"
-              href="https://twitter.com/cadecuddy"
+              href="https://www.pinterest.com/cadecuddy/"
               target="_blank"
               rel="noopener noreferrer"
             >
